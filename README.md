@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/adrielzimbril" target="blank"><img src="https://img.shields.io/twitter/follow/adrielzimbril?logo=twitter&style=for-the-badge" alt="adrielzimbril" /></a> </p>
 
-- 🔭 I’m currently working on [Turbo AI](https://turboai.oricodes.com)
+- 🔭 I’m currently working on [Turbo AI](https://github.com/adrielzimbril/Turbo-AI)
 
 - 📝 I regularly write articles on [https://www.adrielzimbil.com/blog](https://www.adrielzimbil.com/blog)
 
