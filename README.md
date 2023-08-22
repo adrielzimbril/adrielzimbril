@@ -9,18 +9,28 @@
 
 - 🔭 I’m currently working on [Turbo AI](https://github.com/adrielzimbril/Turbo-AI)
 
+- 👨‍💻 All of my projects are available at [https://www.adrielzimbil.com](https://www.adrielzimbil.com)
+
 - 📝 I regularly write articles on [https://www.adrielzimbil.com/blog](https://www.adrielzimbil.com/blog)
 
+- 📫 How to reach me **contact@adrielzimbril.com**
+
 - 📄 Know about my experiences [https://www.adrielzimbil.com/resume.pdf](https://www.adrielzimbil.com/resume.pdf)
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adrielzimbril" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adrielzimbril" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adrielzimbril" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrielzimbril" height="30" width="40" /></a>
+<a href="https://kaggle.com/adriel zimbril" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adriel zimbril" height="30" width="40" /></a>
 <a href="https://fb.com/adrielzimbril" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adrielzimbril" height="30" width="40" /></a>
 <a href="https://instagram.com/adrielzimbril" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adrielzimbril" height="30" width="40" /></a>
 <a href="https://www.behance.net/adrielzimbril" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="adrielzimbril" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/adrielzimbril" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adrielzimbril" height="30" width="40" /></a>
+<a href="/https://www.adrielzimbil.com/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.adrielzimbil.com/rss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
