@@ -20,7 +20,7 @@
 
 - 🔭 I'm currently working on **Buddy Sensei** - AI-powered personal assistant
 - 🌱 I'm currently learning **Rust, Web3, and Advanced AI**
-- 🔭 I'v recently working on [Turbo AI](https://github.com/adrielzimbril/Turbo-AI) - Next Generation Development Tools
+- 🔭 I'v recently working on [Turbo AI](https://github.com/adrielzimbril/Turbo-AI) - OpenAI Powered - AI Next Generation Development Tools
 - 👨‍💻 All my projects are available at [adrielzimbril.com](https://www.adrielzimbril.com)
 - 📝 I write technical articles on [my blog](https://www.adrielzimbril.com/blog)
 - 💬 Ask me about **JavaScript, React, Next.js, and Web Development**
