@@ -39,32 +39,50 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrielzimbril&show_icons=true&locale=en&layout=compact" alt="adrielzimbril" />
 </p>
 
-## 🛠️ Languages and Tools
+## 🛠️ My Product Designer Stack
 
-### Design & Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+### 🎨 Design & Product Thinking
+These tools show I can design, prototype, and iterate quickly.
 
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF.svg?style=flat&logo=framer&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF.svg?style=flat&logo=webflow&logoColor=white)
+![Spline](https://img.shields.io/badge/Spline-1E1E1E.svg?style=flat&logo=spline&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=notion&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FFD02F.svg?style=flat&logo=miro&logoColor=050038)
 
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+---
+
+#### 🖌️ Branding & Motion
+Going beyond wireframes to create immersive experiences.
+
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00.svg?style=flat&logo=adobe-illustrator&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF.svg?style=flat&logo=adobe-after-effects&logoColor=white)
+![LottieFiles](https://img.shields.io/badge/LottieFiles-1C1E21.svg?style=flat&logo=lottieFiles&logoColor=white)
+
+---
+
+#### 🖥️ Frontend & Prototyping
+Turning ideas into interactive prototypes or functional products.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+
+---
+
+#### 🚀 Ops & Collaboration
+Proving I can ship and collaborate efficiently.
+
+![Git](https://img.shields.io/badge/Git-F05033.svg?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=flat&logo=vercel&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2.svg?style=flat&logo=linear&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=flat&logo=slack&logoColor=white)
 
 ## 📱 Connect with Me
 
