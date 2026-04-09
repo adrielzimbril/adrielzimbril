@@ -22,7 +22,7 @@
 - 🌱 I'm currently learning **Rust, Web3, and Advanced AI**
 - 🔭 I'v recently working on [Turbo AI](https://github.com/adrielzimbril/Turbo-AI) - OpenAI Powered - AI Next Generation Development Tools
 - 👨‍💻 All my projects are available at [adrielzimbril.com](https://www.adrielzimbril.com)
-- 📝 I write technical articles on [my blog](https://www.adrielzimbril.com/blog)
+- 📝 I write technical articles on [my blog](https://www.adrielzimbril.com/thoughts)
 - 💬 Ask me about **JavaScript, React, Next.js, and Web Development**
 - 📫 How to reach me: **contact@adrielzimbril.com**
 - 📄 Know about my experiences: [My Resume](https://www.adrielzimbril.com/resume.pdf)
