@@ -15,12 +15,18 @@
     <img src="https://img.shields.io/website?down_color=red&down_message=offline&label=Portfolio&logo=vercel&style=for-the-badge&up_color=4CAF50&up_message=online&url=https%3A%2F%2Fwww.adrielzimbril.com" alt="portfolio" />
   </a>
 </p>
+<p align="center">
+  <a href="[https://www.adrielzimbril.com](https://user-badge.committers.top/ivory_coast_private/adrielzimbril)" target="blank">
+      <img src="https://user-badge.committers.top/ivory_coast_private/adrielzimbril.svg" alt="committers.top badge" />
+  </a>
+</p>
 
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **Buddy Sensei** - AI-powered personal assistant
 - 🌱 I'm currently learning **Rust, Web3, and Advanced AI**
-- 🔭 I'v recently working on [Turbo AI](https://github.com/adrielzimbril/Turbo-AI) - OpenAI Powered - AI Next Generation Development Tools
+- 🔭 I'v currently working on [Pulsor Clip](https://github.com/adrielzimbril/pulsorclip) - A self-hosted Media Downloader and export workspace
+- 🔭 I'v recently worked on [Turbo AI](https://github.com/adrielzimbril/Turbo-AI) - OpenAI Powered - AI Next Generation Development Tools
 - 👨‍💻 All my projects are available at [adrielzimbril.com](https://www.adrielzimbril.com)
 - 📝 I write technical articles on [my blog](https://www.adrielzimbril.com/thoughts)
 - 💬 Ask me about **JavaScript, React, Next.js, and Web Development**
@@ -105,8 +111,4 @@ Proving I can ship and collaborate efficiently.
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrielzimbril" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adrielzimbril&no-frame=true&row=2&column=4&theme=flat" alt="adrielzimbril" />
 </p>
