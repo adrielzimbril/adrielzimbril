@@ -16,7 +16,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="[https://www.adrielzimbril.com](https://user-badge.committers.top/ivory_coast_private/adrielzimbril)" target="blank">
+  <a href="https://user-badge.committers.top/ivory_coast_private/adrielzimbril" target="blank">
       <img src="https://user-badge.committers.top/ivory_coast_private/adrielzimbril.svg" alt="committers.top badge" />
   </a>
 </p>
