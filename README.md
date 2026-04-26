@@ -21,6 +21,8 @@
   </a>
 </p>
 
+---
+
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **Buddy Sensei** - AI-powered personal assistant
@@ -34,6 +36,8 @@
 - 📄 Know about my experiences: [My Resume](https://www.adrielzimbril.com/resume.pdf)
 - ⚡ Fun fact: **I'm a space enthusiast 🚀 and panda lover 🐼**
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -45,9 +49,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrielzimbril&show_icons=true&locale=en&layout=compact" alt="adrielzimbril" />
 </p>
 
+---
+
+## 🐍 Snake Eating My Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/adrielzimbril/adrielzimbril/blob/build/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/adrielzimbril/adrielzimbril/blob/build/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/adrielzimbril/adrielzimbril/blob/build/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+</p>
+---
+
 ## 🛠️ My Product Designer Stack
 
 ### 🎨 Design & Product Thinking
+
 These tools show I can design, prototype, and iterate quickly.
 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
@@ -60,6 +78,7 @@ These tools show I can design, prototype, and iterate quickly.
 ---
 
 #### 🖌️ Branding & Motion
+
 Going beyond wireframes to create immersive experiences.
 
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00.svg?style=flat&logo=adobe-illustrator&logoColor=white)
@@ -69,6 +88,7 @@ Going beyond wireframes to create immersive experiences.
 ---
 
 #### 🖥️ Frontend & Prototyping
+
 Turning ideas into interactive prototypes or functional products.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -82,6 +102,7 @@ Turning ideas into interactive prototypes or functional products.
 ---
 
 #### 🚀 Ops & Collaboration
+
 Proving I can ship and collaborate efficiently.
 
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=flat&logo=git&logoColor=white)
