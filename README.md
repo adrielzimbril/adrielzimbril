@@ -60,6 +60,7 @@
     <img src="https://github.com/adrielzimbril/adrielzimbril/blob/build/github-contribution-grid-snake.svg" alt="github-snake" />
   </picture>
 </p>
+
 ---
 
 ## 🛠️ My Product Designer Stack
