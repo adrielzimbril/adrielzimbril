@@ -60,7 +60,6 @@
     <img src="https://github.com/adrielzimbril/adrielzimbril/blob/build/github-contribution-grid-snake.svg" alt="github-snake" />
   </picture>
 </p>
-
 ---
 
 ## 🛠️ My Product Designer Stack
@@ -134,3 +133,9 @@ Proving I can ship and collaborate efficiently.
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrielzimbril" />
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=adrielzimbril&theme=radical&no-frame=false&no-bg=false&margin-w=4)
